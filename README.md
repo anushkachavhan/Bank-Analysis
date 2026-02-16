@@ -96,7 +96,7 @@ GROUP BY Department;
 
 ---
 
-# Step 5: Data Modeling in Power BI
+# Data Modeling in Power BI
 
 After cleaning, data was imported into Power BI.
 
@@ -115,7 +115,7 @@ This improves performance and accuracy.
 
 ---
 
-# Step 6: Creating Measures using DAX
+# Creating Measures using DAX
 
 Measures were created to calculate KPIs.
 
@@ -133,13 +133,13 @@ Total Loan = SUM(Loans[Loan_Amount])
 Total Funded = SUM(Loans[Funded_Amount])
 ```
 
-# Step 7: Creating Visualizations
+#  Creating Visualizations
 
 Visualizations were created in Power BI, Excel, and Tableau.
 
 ---
 
-## 7.1 KPI Cards
+##  KPI Cards
 
 Used to display:
 
@@ -151,7 +151,7 @@ Used to display:
 
 ---
 
-## 7.2 Bar Chart
+##2 Bar Chart
 
 Used to show:
 
@@ -161,14 +161,14 @@ Used to show:
 
 ---
 
-## 7.3 Line Chart
+## 3 Line Chart
 
 Used to show:
 
 * Loan trends over time
 
 
-## 7.4 Pie Chart
+## 4 Pie Chart
 
 Used to show:
 
@@ -177,7 +177,7 @@ Used to show:
 
 ---
 
-## 7.5 Slicers / Filters
+## 5 Slicers / Filters
 
 Used to filter data by:
 
@@ -190,7 +190,7 @@ Make dashboard interactive.
 
 ---
 
-# Step 8: Dashboard Creation
+#  Dashboard Creation
 
 Combined all visuals into interactive dashboard.
 
@@ -209,7 +209,7 @@ Tools used:
 
 ---
 
-# Step 9: Insights Generated
+# Insights Generated
 
 From the dashboard, the following insights were identified:
 
@@ -220,7 +220,7 @@ From the dashboard, the following insights were identified:
 
 ---
 
-# Step 10: Conclusion
+# Conclusion
 
 This project successfully demonstrates the complete data analysis workflow:
 
